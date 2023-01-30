@@ -19177,7 +19177,7 @@ p.abinfo-para {
   background-size: cover;
   position: relative;
   z-index: 1;
-  display: grid;
+  display: flex;
   align-items: center;
 }
 
