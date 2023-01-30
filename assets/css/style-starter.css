@@ -570,6 +570,11 @@ mark,
   height: auto;
 }
 
+.img-showid {
+  max-width: auto;
+  height: 480;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
