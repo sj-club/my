@@ -571,8 +571,8 @@ mark,
 }
 
 .img-showid {
-  max-width: auto;
-  height: 480;
+  max-width: 400;
+  height: 500;
 }
 
 .img-thumbnail {
