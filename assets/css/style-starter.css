@@ -18189,22 +18189,23 @@ nav ul li a:hover {
 .slide:nth-child(1) .slide__inner {
   background-image: url("https://i.328888.xyz/2023/01/28/jcQ0V.png");
 }
-
+/* 甜蜜 */
 .slide:nth-child(2) .slide__inner {
   background-image: url("https://i.328888.xyz/2023/01/30/8HipZ.png");
 }
-
+/* 温存 */
 .slide:nth-child(3) .slide__inner {
   background-image: url("https://i.328888.xyz/2023/01/30/8HVvF.png");
 }
-
+/* 激情 */
 .slide:nth-child(4) .slide__inner {
-  background-image: url("https://i.328888.xyz/2023/01/31/8HAdE.jpeg");
+  background-image: url("https://i.328888.xyz/2023/02/02/IgzPc.jpeg");
 }
-
+/* 真心 */
 .slide:nth-child(5) .slide__inner {
   background-image: url("https://i.328888.xyz/2023/01/31/8HWTt.png");
 }
+/* 火热 */
 
 .slide__inner {
   position: absolute;
