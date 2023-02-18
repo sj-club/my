@@ -17580,19 +17580,19 @@ a.read:hover span.fas {
 }
 
 .mode-container i.gg-sun {
-  display: block;
+  display: none;
 }
 
 .mode-container i.gg-moon {
-  display: none;
+  display: block;
 }
 
 input:checked+.mode-container i.gg-sun {
-  display: none;
+  display: block;
 }
 
 input:checked+.mode-container i.gg-moon {
-  display: block;
+  display: none;
 }
 
 /*-- //dark and light mode styling --*/
