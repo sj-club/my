@@ -17588,11 +17588,11 @@ a.read:hover span.fas {
 }
 
 input:checked+.mode-container i.gg-sun {
-  display: block;
+  display: none;
 }
 
 input:checked+.mode-container i.gg-moon {
-  display: none;
+  display: block;
 }
 
 /*-- //dark and light mode styling --*/
