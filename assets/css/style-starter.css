@@ -17504,6 +17504,7 @@ a.read:hover span.fas {
 }
 
 .gg-sun {
+  overflow: hidden;
   position: relative;
   transform: scale(var(--ggs, 1));
   height: 24px;
@@ -17514,7 +17515,7 @@ a.read:hover span.fas {
 }
 
 .gg-moon {
-  overflow: hidden;
+  
   position: relative;
   transform: rotate(-135deg) scale(var(--ggs, 1));
   width: 20px;
