@@ -18302,7 +18302,7 @@ nav ul li a:hover {
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
 }
-
+<!--  标题栏左图 -->
 .w3l-social-imf-left {
   background: url(https://i.328888.xyz/2023/01/28/jp0xN.jpeg) no-repeat center;
   background-size: cover;
